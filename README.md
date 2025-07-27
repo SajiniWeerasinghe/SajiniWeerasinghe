@@ -67,3 +67,8 @@
 ### 👁️ Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SajiniWeerasinghe&style=flat-square&color=b678c4&label=Profile%20Views)
+
+---
+
+![Snake animation](https://github.com/SajiniWeerasinghe/SajiniWeerasinghe/blob/output/github-contribution-grid-snake.svg)
+
