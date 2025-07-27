@@ -15,26 +15,26 @@
 
 ---
 
-<h3 align="left">What I'm Doing</h3>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" width="100" />
+<h3 align="center">What I'm Doing</h3>
+<img align="center" src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" width="100" />
 <p>
   🚀 Software Development  🌐 Web Development <br>  ⚙️ Full-Stack Development  ✍️ Technical Writing  <br>🤝 Volunteer Work  
   🌍 Open Source Contribution
 </p>
 
-### Fun Fact
 
 
-**My code runs on logic, but I run on coffee. ☕**
+<h3 align="center">Fun Fact</h3>
+<p>My code runs on logic, but I run on coffee. ☕</p>
 
 
 
 ---
 
+<h3 align="center">Some Tools I Have Used and Learned</h3>
 
-###  Some Tools I Have Used and Learned
 <br>
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
@@ -54,7 +54,8 @@
 
 ---
 
-### 📊 GitHub Stats
+
+<h3 align="center">📊 GitHub Stats</h3>
 
 ![Sajini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SajiniWeerasinghe&show_icons=true&hide_title=false&bg_color=0D1117&title_color=b678c4&text_color=c9d1d9&icon_color=8871e5&border_color=8871e5)
 
