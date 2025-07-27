@@ -54,14 +54,16 @@
 
 ---
 
-###  GitHub Stats
-![Sajini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SajiniWeerasinghe&show_icons=true&theme=radical)
+### 📊 GitHub Stats
 
-![Sajini's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SajiniWeerasinghe&theme=radical)
+![Sajini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SajiniWeerasinghe&show_icons=true&hide_title=false&bg_color=0D1117&title_color=b678c4&text_color=c9d1d9&icon_color=8871e5&border_color=8871e5)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SajiniWeerasinghe&layout=compact&theme=radical)
+![Sajini's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SajiniWeerasinghe&background=0D1117&ring=b678c4&fire=8871e5&currStreakLabel=8871e5&sideNums=c9d1d9&currStreakNum=b678c4&sideLabels=b678c4&dates=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SajiniWeerasinghe&layout=compact&bg_color=0D1117&title_color=b678c4&text_color=c9d1d9&border_color=8871e5)
 
 ---
 
 ### 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=SajiniWeerasinghe&style=flat-square&color=green&label=Profile%20Views)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SajiniWeerasinghe&style=flat-square&color=b678c4&label=Profile%20Views)
