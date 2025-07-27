@@ -62,15 +62,14 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SajiniWeerasinghe&layout=compact&bg_color=0D1117&title_color=b678c4&text_color=c9d1d9&border_color=8871e5)
 
----
+
+
+![snake gif](https://github.com/SajiniWeerasinghe/SajiniWeerasinghe/blob/output/github-snake-dark.svg)
+
+
 
 ### 👁️ Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SajiniWeerasinghe&style=flat-square&color=b678c4&label=Profile%20Views)
-
----
-
-
-![snake gif](https://github.com/SajiniWeerasinghe/SajiniWeerasinghe/blob/output/github-snake-dark.svg)
 
 
