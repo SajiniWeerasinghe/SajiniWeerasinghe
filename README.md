@@ -70,6 +70,7 @@
 
 ---
 
-![Snake animation](https://github.com/SajiniWeerasinghe/SajiniWeerasinghe/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/SajiniWeerasinghe/SajiniWeerasinghe/blob/output/github-snake-dark.svg)
 
 
