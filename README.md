@@ -57,11 +57,19 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-![Sajini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SajiniWeerasinghe&show_icons=true&hide_title=false&bg_color=0D1117&title_color=b678c4&text_color=c9d1d9&icon_color=8871e5&border_color=8871e5)
+<div align="center">
 
-![Sajini's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SajiniWeerasinghe&background=0D1117&ring=b678c4&fire=8871e5&currStreakLabel=8871e5&sideNums=c9d1d9&currStreakNum=b678c4&sideLabels=b678c4&dates=c9d1d9)
+  <img src="https://github-readme-stats.vercel.app/api?username=SajiniWeerasinghe&show_icons=true&hide_title=false&bg_color=0D1117&title_color=b678c4&text_color=c9d1d9&icon_color=8871e5&border_color=8871e5" alt="Sajini's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SajiniWeerasinghe&layout=compact&bg_color=0D1117&title_color=b678c4&text_color=c9d1d9&border_color=8871e5)
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajiniWeerasinghe&background=0D1117&ring=b678c4&fire=8871e5&currStreakLabel=8871e5&sideNums=c9d1d9&currStreakNum=b678c4&sideLabels=b678c4&dates=c9d1d9" alt="Sajini's GitHub Streak" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajiniWeerasinghe&layout=compact&bg_color=0D1117&title_color=b678c4&text_color=c9d1d9&border_color=8871e5" alt="Top Languages" />
+
+</div>
 
 
 
