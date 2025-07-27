@@ -79,9 +79,10 @@
 ![snake gif](https://github.com/SajiniWeerasinghe/SajiniWeerasinghe/blob/output/github-snake-dark.svg)
 
 
+<div align="center">
 
-### 👁️ Profile Views
+<h3 align="center">👁️ Profile Views</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SajiniWeerasinghe&style=flat-square&color=b678c4&label=Profile%20Views)
 
-
+</div>
