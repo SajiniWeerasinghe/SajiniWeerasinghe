@@ -81,7 +81,7 @@
 
 <div align="center">
 
-<h3 align="center">👁️ Profile Views</h3>
+<h3 align="center"> Profile Views</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SajiniWeerasinghe&style=flat-square&color=b678c4&label=Profile%20Views)
 
